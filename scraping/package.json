@@ -1,0 +1,13 @@
+{
+  "name": "web-data-extractor",
+  "description": "Proof of Concept",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "*",
+    "cheerio": "0.20.0",
+    "cheerio-advanced-selectors": "*",
+    "json2csv": "3.2.0",
+    "request-promise": "3.0.0",
+    "bluebird": "3.3.5"
+  }
+}
